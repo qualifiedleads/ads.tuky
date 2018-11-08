@@ -1,0 +1,2 @@
+# ads.tuky
+ad-server
